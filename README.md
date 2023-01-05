@@ -1,2 +1,2 @@
 # typescript-complete-developers-guide
-Udemy Typescript The Complete Developers Guide course
+Udemy Typescript The Complete Developers Guide course!
